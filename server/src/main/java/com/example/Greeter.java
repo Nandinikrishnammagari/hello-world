@@ -2,7 +2,7 @@ package com.example;
 #Test
 #Greeter
 /**
- * This is a class.
+ * This is a class Greeter.
  */
 public class Greeter {
 
