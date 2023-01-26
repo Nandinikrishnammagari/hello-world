@@ -1,5 +1,5 @@
 package com.example;
-#Test
+#Test final
 import org.junit.Before;
 import org.junit.Test;
 
